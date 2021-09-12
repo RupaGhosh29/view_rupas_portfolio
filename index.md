@@ -10,11 +10,23 @@
 
 ### Projects Using Natural Language Processing packages in Python
 ---
-
-### Category Name 2
-
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
+- 
+### Projects Using CNN for Image Classification Problems
+---
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+
+### Big Data Projects using Hadoop and PySpark
+
+- [Yelp Data Analysis](http://example.com/)
+
+### Other Research Work
+
+- [Model Monitoring - Data Drift in Image data](http://example.com/)
+
+- [Bias Detection in News articles](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
