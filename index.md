@@ -5,14 +5,10 @@
 [1. Transportation Spend Analysis](/https://github.com/RupaGhosh29/view_rupas_portfolio/blob/master/pdf/Summary%20of%20Rail%20Transportation%20Study.pdf)
 
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[2. Customer Analysis using unsupervised models](/pdf/sample_presentation.pdf)
 
 
----
-[Project 3 Title](http://example.com/)
-
-
+### Projects Using Natural Language Processing packages in Python
 ---
 
 ### Category Name 2
