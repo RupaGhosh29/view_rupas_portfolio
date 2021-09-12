@@ -12,7 +12,8 @@
 ---
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
-- 
+
+
 ### Projects Using CNN for Image Classification Problems
 ---
 - [Project 1 Title](http://example.com/)
