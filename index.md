@@ -2,7 +2,7 @@
 
 ### Exploratory Data Analysis Projects focusing on Data Mining and business analysis
 
-[1. Transportation Spend Analysis](/https://github.com/RupaGhosh29/view_rupas_portfolio/blob/master/pdf/Summary%20of%20Rail%20Transportation%20Study.pdf)
+[1. Transportation Spend Analysis](https://github.com/RupaGhosh29/view_rupas_portfolio/blob/master/pdf/Summary%20of%20Rail%20Transportation%20Study.pdf)
 
 
 [2. Customer Analysis using unsupervised models](/pdf/sample_presentation.pdf)
